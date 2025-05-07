@@ -1,4 +1,4 @@
- Kongdai Restaurant - Delicious Kenyan Cuisine  
+# Kongdai Restaurant - Delicious Kenyan Cuisine  
 
 Welcome to **Kongdai Restaurant**, where authentic flavors meet affordability! Our menu features hearty Kenyan dishes, from savory **Ugali Nyama** to crispy **Mandazi**, all prepared with fresh, local ingredients.  
 
